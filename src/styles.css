@@ -1,0 +1,179 @@
+.App {
+    font-family: sans-serif;
+    text-align: center;
+    background:linear-gradient(to bottom right,blue,white);
+    height:100vh;
+    width:100vw; 
+  }
+  
+      
+ 
+  header{
+      height:13vh;
+      display:flex;
+      align-items:center;
+      background:black;
+      opacity:0.8;
+      bottom:3vh;
+      color:white;
+    }
+    .heading{
+        text-transform: uppercase;
+        font-weight:800;
+        
+        font-size:3vh;
+        margin-left:30vw;
+        margin-right:36vw;
+        font-style: italic;
+        font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+      
+    }
+  img{
+      height:8vh;
+      width:9vw;
+     margin-top:2vh;
+    margin-left:2vw; 
+}
+.head{
+    color:red;
+  font-weight:400;
+ font-size:4vw;
+}
+span{
+    color:red;
+  font-weight:200;
+  font-size:2vh;
+}
+.authbtn{
+    margin:5vh auto;
+    height:10vh;
+    width:33vw;
+    background: linear-gradient(to bottom right,green,white);
+   border-radius:1vw;
+    border:3px solid white;
+    text-align: center;
+    color:black;
+    text-shadow: 2px 2px 2px white;
+    font-weight:600;
+    font-size:3vh;
+    text-transform: uppercase;
+    overflow-x: inherit;
+}
+button:hover{
+ 
+    color:black;
+    background: linear-gradient(to bottom right,rgb(0, 127, 139),white);
+    box-shadow: 2px 2px 5px grey;
+    border-radius: 3vw;
+    
+    
+
+}
+.form{
+    height:56vh;
+    width:45vw;
+    margin-left:30vw;
+    background-color: black;
+    color:white;
+    padding:1vw;
+    display:flex;
+    flex-direction:column;
+    justify-content:center;
+    align-items: center;
+    
+}
+.form-heading{
+    margin-bottom:1vw;
+    color:red;
+    font-weight:600;
+   
+    font-size: 2vh;
+}
+input{
+    width:25vw;
+    height:2vh;
+    margin-top:2vh;
+   
+}
+label{
+    font-size:2vh;
+    font-weight: 700;
+    
+   
+}
+.submitbtn{
+    height:5vh;
+    width:25vw;
+    background-color: blue;
+    color:white;
+    text-align: center;
+    margin-top:1vh;
+    font-size:2vh;
+    border-radius: 2vw;
+    text-transform: uppercase;
+    font-weight: 800;
+}
+button :hover{
+    background-color:rgb(5, 144, 5);
+    color:white;
+}
+h4{
+    color:red;
+    font-weight:200;
+    font-size:2vh;
+}
+.h3{
+    color:white;
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+}
+.h2{
+    color:white;
+    font-family: Arial, Helvetica, sans-serif;
+}
+.select{
+    height:7vh;
+    width:33vw;
+    text-align: center;
+    font-size: 3vh;
+    border-radius:3vw;
+    border:2px solid brown;
+   
+}
+.select:hover{
+    border:2px solid blue;
+}
+
+.p{
+    font-family: 'Times New Roman', Times, serif;
+    color:white;
+}
+.selected{
+    color:green;
+    font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+   
+    font-weight:800;
+}
+.paymentbtn{
+    height:6vh;
+    width:20vw;
+    color:white;
+    background-color: blue;
+    font-size:2vh;
+    border:none;
+    border-radius: 12vw;
+    font-weight:800;
+    text-transform: uppercase;
+}
+.success{
+    color:green;
+    font-weight: 600;
+
+
+}
+.choose{
+    color:white;
+   
+}
+.case{
+    color:yellow;
+}
