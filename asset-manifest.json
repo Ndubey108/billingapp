@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/billingapp/static/css/main.eaea6f63.css",
+    "main.js": "/billingapp/static/js/main.2d456e1f.js",
+    "static/js/787.7ff85fb0.chunk.js": "/billingapp/static/js/787.7ff85fb0.chunk.js",
+    "index.html": "/billingapp/index.html",
+    "main.eaea6f63.css.map": "/billingapp/static/css/main.eaea6f63.css.map",
+    "main.2d456e1f.js.map": "/billingapp/static/js/main.2d456e1f.js.map",
+    "787.7ff85fb0.chunk.js.map": "/billingapp/static/js/787.7ff85fb0.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.eaea6f63.css",
+    "static/js/main.2d456e1f.js"
+  ]
+}
